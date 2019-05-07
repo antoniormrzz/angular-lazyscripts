@@ -1,0 +1,43 @@
+{
+  "name": "angular-lazyscripts",
+  "version": "1.0.1",
+  "description": "lazy load external js scripts and libraries in your angular projects. this module will handle loading the script you need before you use it in your components.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antoniormrzz/angular-lazyscripts.git"
+  },
+  "keywords": [
+    "angular",
+    "lazyload",
+    "external",
+    "javascript",
+    "libraries",
+    "scripts",
+    "lazy",
+    "load",
+    "lazyscripts"
+  ],
+  "author": "Antonio Ramirez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antoniormrzz/angular-lazyscripts/issues"
+  },
+  "homepage": "https://github.com/antoniormrzz/angular-lazyscripts#readme",
+  "peerDependencies": {
+    "@angular/common": "^7.2.0",
+    "@angular/core": "^7.2.0"
+  },
+  "main": "bundles/angular-lazyscripts.umd.js",
+  "module": "fesm5/angular-lazyscripts.js",
+  "es2015": "fesm2015/angular-lazyscripts.js",
+  "esm5": "esm5/angular-lazyscripts.js",
+  "esm2015": "esm2015/angular-lazyscripts.js",
+  "fesm5": "fesm5/angular-lazyscripts.js",
+  "fesm2015": "fesm2015/angular-lazyscripts.js",
+  "typings": "angular-lazyscripts.d.ts",
+  "metadata": "angular-lazyscripts.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
