@@ -94,4 +94,6 @@ I have included an archive of my test project. the codes are commented. normally
 
 ## License
 
+[![NPM](https://nodei.co/npm/angular-lazyscripts.png)](https://nodei.co/npm/angular-lazyscripts/)
+
 Copyright (c) 2019 Antonio Ramirez <sepehralizade@live.com>, MIT License
