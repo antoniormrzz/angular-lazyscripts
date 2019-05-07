@@ -49,7 +49,7 @@ Add the `alsLoad` directive with library url (any url you would use in a script 
 ```
 please note that the first myComponent component will wait for library to load and will run after the second one, the error you see first is actually logged by the second component.
 
-**note: it adds the library to the bottom of your index.html, you can use the directive as much as you want, each url will be added once
+**note: it adds the library to the bottom of your index.html, you can use the directive as much as you want, each url will be added once**
 
 
 ### 3. Use your script in your component
@@ -86,7 +86,7 @@ you can use angular-lazyscripts to add your script to the DOM right before you u
 
 this library was tested with `angular-cli 7.3.8` and `node 10`, I didn't use observables to avoid rxjs import problems. I think you should be fine in 4+ versions of angular, but if something starts acting up and you get errors, feel free to email me.
 
-**there is a 15 seconds timeout after which the component will not be added to the page. there won't be any errors. you are responsible with the file you choose.
+**there is a 15 seconds timeout after which the component will not be added to the page. there won't be any errors. you are responsible with the file you choose.**
 
 ## Example project
 
