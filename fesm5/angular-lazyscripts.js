@@ -1,4 +1,4 @@
-import { Injectable, NgModule, Component, Directive, TemplateRef, ViewContainerRef, Input, defineInjectable } from '@angular/core';
+import { Injectable, Component, Directive, TemplateRef, ViewContainerRef, Input, NgModule, defineInjectable } from '@angular/core';
 
 /**
  * @fileoverview added by tsickle

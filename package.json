@@ -1,6 +1,6 @@
 {
   "name": "angular-lazyscripts",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "lazy load external js scripts and libraries in your angular projects. this module will handle loading the script you need before you use it in your components.",
   "repository": {
     "type": "git",
