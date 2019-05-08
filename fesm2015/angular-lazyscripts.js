@@ -1,4 +1,4 @@
-import { Injectable, Directive, TemplateRef, ViewContainerRef, Input, Component, NgModule, defineInjectable } from '@angular/core';
+import { Injectable, Component, NgModule, Directive, TemplateRef, ViewContainerRef, Input, defineInjectable } from '@angular/core';
 
 /**
  * @fileoverview added by tsickle
@@ -146,7 +146,6 @@ AngularLazyscriptsModule.decorators = [
     { type: NgModule, args: [{
                 declarations: [AngularLazyscriptsComponent, AngularLazyscriptsDirective],
                 imports: [],
-                providers: [AngularLazyscriptsService],
                 exports: [AngularLazyscriptsComponent, AngularLazyscriptsDirective]
             },] }
 ];

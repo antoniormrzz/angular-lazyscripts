@@ -84,7 +84,8 @@ you can use angular-lazyscripts to add your script to the DOM right before you u
 
 ## Info
 
-this library was tested with `angular-cli 7.3.8` and `node 10`, I didn't use observables to avoid rxjs import problems. I think you should be fine in 4+ versions of angular, but if something starts acting up and you get errors, feel free to email me.
+this library was tested with `angular-cli 7.3.8` and `node 10`, I didn't use observables to avoid rxjs import problems. I think you should be fine in 6+ versions of angular, but if something starts acting up and you get errors, feel free to email me.
+if you actually test it on lower versions and it works, please do inform me.
 
 **there is a 15 seconds timeout after which the component will not be added to the page. there won't be any errors. you are responsible with the file you choose.**
 

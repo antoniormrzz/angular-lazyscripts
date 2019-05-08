@@ -157,7 +157,6 @@ var AngularLazyscriptsModule = /** @class */ (function () {
         { type: NgModule, args: [{
                     declarations: [AngularLazyscriptsComponent, AngularLazyscriptsDirective],
                     imports: [],
-                    providers: [AngularLazyscriptsService],
                     exports: [AngularLazyscriptsComponent, AngularLazyscriptsDirective]
                 },] }
     ];

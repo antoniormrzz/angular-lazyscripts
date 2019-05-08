@@ -156,7 +156,6 @@
             { type: i0.NgModule, args: [{
                         declarations: [AngularLazyscriptsComponent, AngularLazyscriptsDirective],
                         imports: [],
-                        providers: [AngularLazyscriptsService],
                         exports: [AngularLazyscriptsComponent, AngularLazyscriptsDirective]
                     },] }
         ];
